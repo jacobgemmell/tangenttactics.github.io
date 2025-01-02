@@ -27,10 +27,14 @@ If you need assistance, have any questions, or would like to share feedback, fee
 Alternatively, you can submit your inquiry through the GitHub Issues tab for technical support or general inquiries.
 
 Usage Guidelines
+
 Purpose: The Tangent Tactics app is designed to be a tool for creative professionals and anyone experiencing creative blocks. Use it to draw cards whenever you need inspiration or want to approach a task from a new angle.
+
 Usage: Simply swipe to draw a card, read the prompt, and reflect on how it applies to your current creative task. You may draw multiple cards in succession if necessary.
+
 Privacy: There is no need to sign in or share any personal information to use the app. Your creative process remains private.
 Updates: Keep your app updated to enjoy new features, bug fixes, and improvements. Updates are provided periodically.
+
 Privacy Policy
 Introduction
 Tangent Tactics is committed to protecting your privacy. This policy outlines the type of information we collect, how we use it, and how we protect your personal information.
