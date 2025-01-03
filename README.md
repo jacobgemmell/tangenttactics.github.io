@@ -6,7 +6,7 @@ creativity,inspiration,creative blocks,oblique strategies,brainstorming,problem 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tangent Tactics: Creative Problem-Solving Cards Support</title>
+
    
 </head>
 <body>
