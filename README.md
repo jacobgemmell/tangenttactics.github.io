@@ -7,59 +7,7 @@ creativity,inspiration,creative blocks,oblique strategies,brainstorming,problem 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tangent Tactics: Creative Problem-Solving Cards Support</title>
-    <style>
-        body {
-            font-family: Courier, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-color: #121212;
-            color: #e0e0e0;
-        }
-        header {
-            background-color: #333;
-            padding: 1rem;
-            text-align: center;
-        }
-        header h1 {
-            color: #fff;
-        }
-        section {
-            padding: 2rem;
-        }
-        h2 {
-            color: #f5a623;
-        }
-        .faq ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        .faq li {
-            margin-bottom: 1rem;
-        }
-        .contact-form label {
-            display: block;
-            margin-bottom: 0.5rem;
-        }
-        .contact-form input, .contact-form textarea {
-            width: 100%;
-            padding: 0.5rem;
-            margin-bottom: 1rem;
-            border: 1px solid #555;
-            background-color: #222;
-            color: #e0e0e0;
-        }
-        .contact-form button {
-            background-color: #f5a623;
-            color: #fff;
-            padding: 0.75rem 2rem;
-            border: none;
-            cursor: pointer;
-        }
-        .contact-form button:hover {
-            background-color: #d68f1a;
-        }
-    </style>
+   
 </head>
 <body>
 
@@ -87,20 +35,9 @@ creativity,inspiration,creative blocks,oblique strategies,brainstorming,problem 
 
 <section class="contact-form">
     <h2>Contact Support</h2>
-    <p>If you need assistance, have any questions, or would like to share feedback, feel free to reach out via email at <a href="mailto:your-email@example.com">your-email@example.com</a>.</p>
+    <p>If you need assistance, have any questions, or would like to share feedback, feel free to reach out via email at <a href="mailto:tangenttactics@gmail.com">tangenttactics@gmail.com</a>.</p>
     <p>Alternatively, you can submit your inquiry through the GitHub Issues tab for technical support or general inquiries.</p>
-    <form action="#" method="post">
-        <label for="name">Your Name:</label>
-        <input type="text" id="name" name="name" required>
 
-        <label for="email">Your Email:</label>
-        <input type="email" id="email" name="email" required>
-
-        <label for="message">Your Message:</label>
-        <textarea id="message" name="message" rows="4" required></textarea>
-
-        <button type="submit">Send Message</button>
-    </form>
 </section>
 
 <section class="usage-guidelines">
